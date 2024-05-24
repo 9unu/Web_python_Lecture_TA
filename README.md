@@ -12,4 +12,4 @@
 ## 실제 강의 영상
 ![image](https://github.com/9unu/Web_python_Lecture_TA/assets/124652096/9c207a85-4d12-4671-b710-4e4b16f17ffe)
 
-`영상 링크 (유튜브)` : 
+`영상 링크 (유튜브)` : https://youtu.be/ZmZzWoh_eXY
