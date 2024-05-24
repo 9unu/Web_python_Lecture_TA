@@ -13,4 +13,4 @@
 ## 실제 강의 영상 (이미지)
 ![image](https://github.com/9unu/Web_python_Lecture_TA/assets/124652096/3b7b07a3-81e2-48aa-9828-a3d2fdeed4e6)
 
-`영상 링크 (유튜브)` : https://youtu.be/ZmZzWoh_eXY
+### `영상 링크 (유튜브)` : https://youtu.be/ZmZzWoh_eXY
