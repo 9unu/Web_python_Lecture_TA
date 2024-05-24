@@ -9,7 +9,7 @@
 - Youtube_Crawling.py : 시청기록.json파일을 input으로 넣었을 때, 시청 영상의 추가 정보(좋아요 수, 댓글 수,..)를 크롤링하여 csv파일로 저장
 - Youtube_split.py : 저장된 csv파일에서 유튜브 쇼츠, 유튜브 뮤직, 유튜브 롱폼 영상을 분리하여 각각의 csv파일로 저장
   
-## 실제 강의 영상
+## 실제 강의 영상 (이미지)
 ![image](https://github.com/9unu/Web_python_Lecture_TA/assets/124652096/9c207a85-4d12-4671-b710-4e4b16f17ffe)
 
 `영상 링크 (유튜브)` : https://youtu.be/ZmZzWoh_eXY
